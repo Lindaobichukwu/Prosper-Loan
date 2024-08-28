@@ -32,7 +32,7 @@
                                                         dropping duplicate rows and missing values etc.
                     
                      . Visualized my dataset: 
-                                Some of the data visualized are as follows:
+                                Some of the data visualized are:
                                        . Loan Months Since Origination Distribution
                                        . Loan Original Amount Distribution
                                        . Prosper Score Distribution
