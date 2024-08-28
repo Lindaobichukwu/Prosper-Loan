@@ -39,7 +39,7 @@
                                        . Prosper Rating (Alpha) Distribution
                                        . Is Borrower Home Owner By Income Range
                                        . Loan Original Amount By Income Range
-                                       . 'Number of Investors By Loan Status
+                                       . Number of Investors By Loan Status
                                        . Loan Original Amount By Term
 
 ### Conclusion: 
